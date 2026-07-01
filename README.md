@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-I build backend-focused and data-driven applications using Java, Spring Boot, Python, databases, messaging systems, ETL/ELT pipelines, and cloud-ready architecture. I also work with AI — integrating LLMs, building RAG pipelines, and wiring embeddings and retrieval into practical applications.
+I build backend-focused and data-driven applications using Java, Spring Boot, Python, databases, messaging systems, ETL/ELT pipelines, and cloud-ready architecture. I also work with AI, integrating LLMs, building RAG pipelines, and wiring embeddings and retrieval into practical applications.
 
 My work is centered around practical engineering: clean APIs, real persistence, validation, tests, asynchronous workflows, Dockerized environments, observability, data pipelines that move from raw ingestion to analytics-ready outputs, and AI-powered workflows that make data accessible through natural language.
 
