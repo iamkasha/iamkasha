@@ -69,6 +69,7 @@ I also build React frontends when a project needs a complete user-facing workflo
 
 | Project | Focus | What it demonstrates |
 | --- | --- | --- |
+| [claims-status-chatbot](https://github.com/iamkasha/claims-status-chatbot) | Applied AI | RAG, local embeddings, cosine similarity retrieval, context window management, LLM streaming with Ollama |
 | [order-processing-platform](https://github.com/iamkasha/order-processing-platform) | Backend systems | Spring Boot, PostgreSQL, Redis, Kafka, JWT auth, Docker Compose, Prometheus/Grafana |
 | [movie-review-platform](https://github.com/iamkasha/movie-review-platform) | Full-stack backend-heavy app | Spring Boot, MongoDB, RabbitMQ, React, JWT auth, Docker Compose, Datadog-ready config |
 | [employee-management-platform](https://github.com/iamkasha/employee-management-platform) | Full-stack CRUD platform | Spring Boot, React, MySQL, validation, pagination, search, tests |
